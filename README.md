@@ -4,19 +4,9 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=VitinSantos&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FFF&text_color=FFF&border_radius=3&border_color=FFF&icon_color=FFF&theme=jolly" alt="GitHub stats">
 
-  <a href="https://github.com/VitinSantos/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/  username=VitinSantos&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFF&bg_color=000&text_color=FFF&border_radius=3&border_color=FFF&count_private=true" alt="Most Used Languages">
+  <a href="https://github.com/bonfim-igor/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitinSantos&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFF&bg_color=000&text_color=FFF&border_radius=3&border_color=FFF&count_private=true" alt="Most Used Languages">
   </a>
-</div>
-
-##
-
-<div style="display: inline_block"><br>  
-  <img align="center" alt="Vitin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vitin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vitin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vitin-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Vitin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
 ##
