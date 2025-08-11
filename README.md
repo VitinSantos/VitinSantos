@@ -1,9 +1,6 @@
 ## Seja Bem-Vindo!
 <div>
-  <img  height="165" src="https://github-readme-stats.vercel.app/api?username=VitinSantos&theme=midnight-purple&show_icons=true" alt="GitHub stats">
-   <a href="https://github.com/VitinSantos/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitinSantos
-      &line_height=165&card_width=300&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFF&bg_color=000&text_color=FFF&border_radius=3&border_color=FFF&count_private=true" alt="Most Used Languages">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
   </a>
 </div>
 
